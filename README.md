@@ -1,3 +1,3 @@
 # tetris
 
-使用原生js写的俄罗斯方块游戏
+纯javascript写的俄罗斯方块游戏
